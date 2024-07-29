@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\FinalEx\FinalEx\FinalEx\obj\Debug\net8.0\FinalEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\FinalEx\FinalEx\FinalEx\obj\Debug\net8.0\FinalEx.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\FinalEx\FinalEx\FinalEx\obj\Debug\net8.0\FinalEx.AssemblyInfo.cs
+C:\Users\DELL\Desktop\FinalEx\FinalEx\FinalEx\obj\Debug\net8.0\FinalEx.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\FinalEx\FinalEx\FinalEx\obj\Debug\net8.0\FinalEx.sourcelink.json
+C:\Users\DELL\Desktop\FinalEx\FinalEx\FinalEx\bin\Debug\net8.0\FinalEx.exe
+C:\Users\DELL\Desktop\FinalEx\FinalEx\FinalEx\bin\Debug\net8.0\FinalEx.deps.json
+C:\Users\DELL\Desktop\FinalEx\FinalEx\FinalEx\bin\Debug\net8.0\FinalEx.runtimeconfig.json
+C:\Users\DELL\Desktop\FinalEx\FinalEx\FinalEx\bin\Debug\net8.0\FinalEx.dll
+C:\Users\DELL\Desktop\FinalEx\FinalEx\FinalEx\bin\Debug\net8.0\FinalEx.pdb
+C:\Users\DELL\Desktop\FinalEx\FinalEx\FinalEx\obj\Debug\net8.0\FinalEx.dll
+C:\Users\DELL\Desktop\FinalEx\FinalEx\FinalEx\obj\Debug\net8.0\refint\FinalEx.dll
+C:\Users\DELL\Desktop\FinalEx\FinalEx\FinalEx\obj\Debug\net8.0\FinalEx.pdb
+C:\Users\DELL\Desktop\FinalEx\FinalEx\FinalEx\obj\Debug\net8.0\FinalEx.genruntimeconfig.cache
+C:\Users\DELL\Desktop\FinalEx\FinalEx\FinalEx\obj\Debug\net8.0\ref\FinalEx.dll
